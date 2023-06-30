@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oh-judnag/static/css/main.073c9b0a.css",
+    "main.js": "/oh-judnag/static/js/main.43d944ce.js",
+    "static/js/787.f49ab93b.chunk.js": "/oh-judnag/static/js/787.f49ab93b.chunk.js",
+    "static/media/logo.svg": "/oh-judnag/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/oh-judnag/index.html",
+    "main.073c9b0a.css.map": "/oh-judnag/static/css/main.073c9b0a.css.map",
+    "main.43d944ce.js.map": "/oh-judnag/static/js/main.43d944ce.js.map",
+    "787.f49ab93b.chunk.js.map": "/oh-judnag/static/js/787.f49ab93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.43d944ce.js"
+  ]
+}
